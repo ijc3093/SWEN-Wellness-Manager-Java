@@ -1,6 +1,10 @@
 # Introduction :wave:
   Hello :wave:, this is Team B's implementation of the **Wellness Manager for SWEN - 383** Fall 2020 RIT Semester (_Corona Time_ :microbe:). <br/> This project was developed with **Java 1.8** and GUI developed with Swing. Implemented **Composite Pattern** and **MVC(Model View Controller Pattern)**. <br/> IDE of choice during the development was [IntelliJ IDEA](https://www.jetbrains.com/idea/).
   
+# Project Summary
+Project Summary
+We will be creating an application that allows a user to register their own recipes, daily consumption of food and track their progress of their current diet. The user will be able to add their own basic foods and recipes by giving the program the required information. In addition to this, the user will also be allowed to register his daily food consumption and the applications will automatically keep track of the amount of calories, carbohydrates, fat and proteins that the user has consumed throughout the day.
+
 # Contributors :star_struck:
   - Amanda Bui
   - Daniel Chung
@@ -24,7 +28,7 @@
     
 
 
-# CLI
+# Command Line Interface
 Register
 
 ![Screenshot](https://github.com/ijc3093/SWEN-Wellness-Manager-Java/blob/master/images/CLI/register.png)

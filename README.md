@@ -35,12 +35,12 @@ Login
 
 
 
-Receipe
+Receipe Table
 
 ![Screenshot](https://github.com/ijc3093/SWEN-Wellness-Manager-Java/blob/master/images/CLI/receipe.png)
 
 
-Exercise
+Exercise Table
 
 ![Screenshot](https://github.com/ijc3093/SWEN-Wellness-Manager-Java/blob/master/images/CLI/exercise.png)
 

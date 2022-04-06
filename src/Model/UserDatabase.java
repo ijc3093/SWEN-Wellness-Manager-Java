@@ -30,10 +30,10 @@ public class UserDatabase implements Database{
         this.saveData();
     }
 
-    @Override
+   
     public void readData() throws IOException {
         try {
-            File csvFile = new File("src/data/userPass.csv");
+            File csvFile = new File("");
             Scanner csvReader = new Scanner(csvFile);
             while (csvReader.hasNextLine()) {
                 String[] data = csvReader.nextLine().split(",");
@@ -53,10 +53,10 @@ public class UserDatabase implements Database{
         }
     }
 
-    @Override
+
     public void saveData() throws IOException {
         try {
-            FileWriter writter = new FileWriter("src/data/userPass.csv");
+            FileWriter writter = new FileWriter("");
             for (Map.Entry entry : userDatabase.entrySet()) {
                 User currentUser = (User) entry.getValue();
                 writter.write(currentUser.getUsername());

@@ -27,6 +27,7 @@ public class LogDatabase implements Database{
         this.saveData();
     }
 
+    @Override
     public void readData(){
         try {
             File csvFile = new File("src/data/log.csv");

@@ -3,7 +3,7 @@ package Controller;
 import View.View;
 import Model.*;
 import com.sun.javafx.fxml.builder.JavaFXSceneBuilder;
-import com.sun.xml.internal.messaging.saaj.soap.JpegDataContentHandler;
+// import com.sun.xml.internal.messaging.saaj.soap.JpegDataContentHandler;
 import javafx.application.Platform;
 import javafx.embed.swing.JFXPanel;
 import javafx.fxml.FXMLLoader;

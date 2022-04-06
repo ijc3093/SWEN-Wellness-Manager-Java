@@ -43,7 +43,7 @@ public class FoodDatabase implements Database{
 
     //Save data after user insert data into.
     public void saveData() throws IOException {
-        FileWriter writter = new FileWriter("src/data/foods.csv");
+        FileWriter writter = new FileWriter("foods.csv");
         for (Map.Entry<String, Food> entry : foodsDatabase.entrySet()){
             Food currentEntry = (Food) entry.getValue();
             if (currentEntry.getType().equals("b")){

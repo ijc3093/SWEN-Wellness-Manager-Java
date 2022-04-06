@@ -1,5 +1,5 @@
 # Introduction :wave:
-  Hello :wave:, this is Team B's implementation of the **Wellness Manager for SWEN - 383** Fall 2020 RIT Semester (_Corona Time_ :microbe:). <br/> This project was developed with **Java 1.8** and GUI developed with Swing. Implemented **Composite Pattern** and **MVC(Model View Controller Pattern)**. <br/> IDE of choice during the development was [IntelliJ IDEA](https://www.jetbrains.com/idea/).
+  Hello :wave:, this is Team B's implementation of the **Wellness Manager for SWEN - 383** Fall 2020 RIT Semester (_Corona Time_ :microbe:). <br/> This project was developed with **Java 1.8** and GUI developed with Swing. Implemented **Composite Pattern** and **MVC(Model View Controller Pattern)**. <br/> IDE of choice during the development was [IntelliJ IDEA](https://www.jetbrains.com/idea/) or jGrasp
   
 # Project Summary
 Project Summary

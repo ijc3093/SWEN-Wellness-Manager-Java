@@ -22,8 +22,87 @@
   - **Mac**
     - You have to resize the application a little bit and that will fix it. 
     
+
+
+# CLI
+Register
+
+![Screenshot](https://github.com/ijc3093/SWEN-Wellness-Manager-Java/blob/master/images/CLI/register.png)
     
-    
-    
+Login
+
+![Screenshot](https://github.com/ijc3093/SWEN-Wellness-Manager-Java/blob/master/images/CLI/login.png)
+
+
+
+Receipe
+
+![Screenshot](https://github.com/ijc3093/SWEN-Wellness-Manager-Java/blob/master/images/CLI/receipe.png)
+
+
+Exercise
+
+![Screenshot](https://github.com/ijc3093/SWEN-Wellness-Manager-Java/blob/master/images/CLI/exercise.png)
+
+
+User's Account
+
+![Screenshot](https://github.com/ijc3093/SWEN-Wellness-Manager-Java/blob/master/images/CLI/userAccount.png)
+
+
+
+# GUI
+User Listing
+
+![Screenshot](https://github.com/ijc3093/SWEN-Wellness-Manager-Java/blob/master/images/VIEW/welcome.png)
+
+
+Wellmanager
+
+![Screenshot](https://github.com/ijc3093/SWEN-Wellness-Manager-Java/blob/master/images/VIEW/wellmanager.png)
+
+
+Register
+
+![Screenshot](https://github.com/ijc3093/SWEN-Wellness-Manager-Java/blob/master/images/VIEW/register.png)
+
+
+Login
+
+![Screenshot](https://github.com/ijc3093/SWEN-Wellness-Manager-Java/blob/master/images/VIEW/login.png)
+
+Receipe
+
+![Screenshot](https://github.com/ijc3093/SWEN-Wellness-Manager-Java/blob/master/images/VIEW/receipe.png)
+
+
+Receipe's Table
+
+![Screenshot](https://github.com/ijc3093/SWEN-Wellness-Manager-Java/blob/master/images/VIEW/receipetable.png)
+
+
+Exercise
+
+![Screenshot](https://github.com/ijc3093/SWEN-Wellness-Manager-Java/blob/master/images/VIEW/exercise.png)
+
+
+Exercise's Table
+
+![Screenshot](https://github.com/ijc3093/SWEN-Wellness-Manager-Java/blob/master/images/VIEW/exercisetable.png)
+
+
+Log
+
+![Screenshot](https://github.com/ijc3093/SWEN-Wellness-Manager-Java/blob/master/images/VIEW/log.png)
+
+
+Log's Table
+
+![Screenshot](https://github.com/ijc3093/SWEN-Wellness-Manager-Java/blob/master/images/VIEW/logtable.png)
+
+
+User's Account
+
+![Screenshot](https://github.com/ijc3093/SWEN-Wellness-Manager-Java/blob/master/images/VIEW/userAccount.png)
     
 <p align=center><sub>Made with :heart: by Team B</sub></p>
